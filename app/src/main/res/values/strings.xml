@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">LoveMyAnime</string>
+    <string name="anime_title">Anime Title</string>
+    <string name="score">Score: ?</string>
+    <string name="genres">Genres: ?</string>
+    <string name="snynopsis">Snynopsis</string>
+    <string name="about">About</string>
+    <string name="my_name">Kristian Ekachandra</string>
+    <string name="my_email">kristianekachandra8@gmail.com</string>
+
+    <string-array name="data_title">
+        <item>Ansatsu Kyoushitsu</item>
+        <item>Asobi Asobase</item>
+        <item>Ballroom e Youkoso</item>
+        <item>Danshi Koukousei no Nichijou</item>
+        <item>Dr. Stone</item>
+        <item>Fuufu Ijou, Koibito Miman.</item>
+        <item>Grand Blue</item>
+        <item>Haikyuu!!</item>
+        <item>Kage no Jitsuryokusha ni Naritakute!</item>
+        <item>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</item>
+        <item>Kimetsu no Yaiba</item>
+        <item>Kono Subarashii Sekai ni Shukufuku wo!</item>
+        <item>Mairimashita! Iruma-kun</item>
+        <item>Overlord</item>
+        <item>Shokugeki no Souma</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ansatsu_kyoushitsu</item>
+        <item>@drawable/asobi_asobase</item>
+        <item>@drawable/ballroom_e_youkoso</item>
+        <item>@drawable/danshi_koukousei_no_nichijou</item>
+        <item>@drawable/drstone</item>
+        <item>@drawable/fuufu_ijou_koibito_miman</item>
+        <item>@drawable/grandblue</item>
+        <item>@drawable/haikyuu</item>
+        <item>@drawable/kage_no_jitsuryokusha_ni_naritakute</item>
+        <item>@drawable/kaguyasama_wa_kokurasetai_tensai_tachi_no_renai_zunousen</item>
+        <item>@drawable/kimetsu_no_taiba</item>
+        <item>@drawable/konosuba</item>
+        <item>@drawable/mairimashita_irumakun</item>
+        <item>@drawable/overlord</item>
+        <item>@drawable/shokugeki_no_souma</item>
+    </integer-array>
+
+    <string-array name="data_score">
+        <item>Score: 8.09</item>
+        <item>Score: 8.19</item>
+        <item>Score: 8.19</item>
+        <item>Score: 8.24</item>
+        <item>Score: 8.29</item>
+        <item>Score: 7.61</item>
+        <item>Score: 8.43</item>
+        <item>Score: 8.44</item>
+        <item>Score: 8.38</item>
+        <item>Score: 8.41</item>
+        <item>Score: 8.52</item>
+        <item>Score: 8.12</item>
+        <item>Score: 7.75</item>
+        <item>Score: 7.92</item>
+        <item>Score: 8.16</item>
+    </string-array>
+
+    <string-array name="data_genres">
+        <item>Genres: Action, Comedy</item>
+        <item>Genres: Comedy</item>
+        <item>Genres: Comedy, Drama, Romance, Sports</item>
+        <item>Genres: Comedy</item>
+        <item>Genres: Adventure, Comedy, Sci-Fi</item>
+        <item>Genres: Comedy, Romance</item>
+        <item>Genres: Comedy</item>
+        <item>Genres: Sports</item>
+        <item>Genres: Action, Comedy, Fantasy</item>
+        <item>Genres: Comedy</item>
+        <item>Genres: Action, Award Winning, Fantasy</item>
+        <item>Genres: Adventure, Comedy, Fantasy</item>
+        <item>Genres: Comedy, Fantasy</item>
+        <item>Genres: Action, Adventure, Fantasy</item>
+        <item>Genres: Gourmet, Ecchi</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>
+            Tucked in the mountains near the elite Kunugigaoka Middle School lies a small derelict building that houses the delinquents and dropouts of Class 3-E. Looked down upon by their peers, the students in this class appear to have little hope in advancing their academic careers. That is, until the national government tasks them with eliminating the greatest threat to their planet: their new teacher.
+            Having already destroyed the moon, the octopus-like professor—dubbed "Koro-sensei"—has now threatened to destroy the Earth by March of the following year. In light of their mission, the students have found that killing him is easier said than done. Not only can Koro-sensei move at speeds of up to Mach 20, but he can also resist almost every earthly weapon. Ironically, he also proves to be one of the best teachers Class 3-E has ever had. Training the class to excel in both their studies as students and skills as assassins, Koro-sensei is confident that his students\' ingenuity and indomitable will could return them to the main campus.
+            Through trial and error, Nagisa Shiota, as well as the other students of Class 3-E, must figure out Koro-sensei\'s weaknesses—and fast, for the very fate of the world depends upon it.
+        </item>
+        <item>
+            During recess, Olivia, a foreign transfer student who doesn\'t know English, plays a game of "look-the-other-way" with Hanako Honda, a loud-mouthed airhead. Their rowdy behavior spurs the ire of Kasumi Nomura, a deadpan loner constantly teased by her older sister for her tendency to lose games. Not willing to compete, Kasumi declines Olivia\'s offer to join the fun, but eventually gets involved anyway and dispenses her own brand of mischief. Soon, a strange friendship blossoms between the peculiar trio, and they decide to form the "Pastime Club," where they are free to resume their daily hijinks.
+            Whether it be failing to learn English, trying desperately to become popular, or getting caught by teachers at the wrong time, school life will never be boring when the girls of Asobi Asobase are up to their hilarious antics.
+        </item>
+        <item>
+            Tatara Fujita is a shy middle schooler who has no particular plan for the future. He has gotten through life by avoiding any kind of confrontation and blending in with the crowd. But blending in isn\'t enough to get out of trouble, as some bullies harass him for money. Luckily, he is saved by a man named Kaname Sengoku.
+            Kaname invites Tatara to his dance studio. Although he would normally never set foot in such a place, Tatara is captivated by Sengoku\'s commanding presence. Granted an opportunity to dance with fellow classmate Shizuku Hanaoka—who often practices at the studio—Tatara realizes there\'s something about the idea of being put in the limelight and dancing where people will see him that keeps him coming back. With an earnest, passionate drive to improve, Tatara begins his journey into the world of competitive dance.
+        </item>
+        <item>
+            Roaming the halls of the all-boys Sanada North High School are three close comrades: the eccentric ringleader with a hyperactive imagination Hidenori, the passionate Yoshitake, and the rational and prudent Tadakuni. Their lives are filled with giant robots, true love, and intense drama… in their colorful imaginations, at least. In reality, they are just an everyday trio of ordinary guys trying to pass the time, but who said everyday life couldn\'t be interesting? Whether it\'s an intricate RPG reenactment or an unexpected romantic encounter on the riverbank at sunset, Danshi Koukousei no Nichijou is rife with bizarre yet hilariously relatable situations that are anything but mundane.
+        </item>
+        <item>
+            After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.
+            Several millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju\'s brawn and Senkuu\'s brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified.
+            However, Senkuu\'s master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind\'s petrification remains unknown.
+        </item>
+        <item>
+            Third-year high school student Jirou Yakuin is in love with his childhood friend and classmate, Shiori Sakurazaka. Thus, he hopes to be paired with her for the "marriage practical": their school\'s practice of randomly selecting boy-girl pairs to live as pretend married couples while monitoring and rating them on how close they have gotten. Meanwhile, the lively Akari Watanabe wants to be assigned to her crush, the popular and good-looking Minami Tenjin.
+            Much to their dismay, Jirou and Akari find out that not only have they been paired together, but so have Shiori and Minami! Determined to be with their crushes, Jirou and Akari strive to earn as many points as possible, as the top 10 pairs earn the right to switch their partners—so long as both couples agree.
+        </item>
+        <item>
+            Iori Kitahara moves to the coastal town of Izu for his freshman year at its university, taking residence above Grand Blue, his uncle\'s scuba diving shop. Iori has high hopes and dreams about having the ideal college experience, but when he enters the shop he is sucked into the alcoholic activities of the carefree members of the Diving Club who frequent the place. Persuaded by upperclassmen Shinji Tokita and Ryuujirou Kotobuki, Iori reluctantly joins their bizarre party. His cousin Chisa Kotegawa later walks in and catches him in the act, earning Iori her utter disdain.
+        </item>
+        <item>
+            Ever since having witnessed the "Little Giant" and his astonishing skills on the volleyball court, Shouyou Hinata has been bewitched by the dynamic nature of the sport. Even though his attempt to make his debut as a volleyball regular during a middle school tournament went up in flames, he longs to prove that his less-than-impressive height ceases to be a hindrance in the face of his sheer will and perseverance.
+            When Hinata enrolls in Karasuno High School, the Little Giant\'s alma mater, he believes that he is one step closer to his goal of becoming a professional volleyball player. Although the school only retains a shadow of its former glory, Hinata\'s conviction isn\'t shaken until he learns that Tobio Kageyama—the prodigy who humiliated Hinata\'s middle school volleyball team in a crushing defeat—is now his teammate.
+            To fulfill his desire of leaving a mark on the realm of volleyball—so often regarded as the domain of the tall and the strong—Hinata must smooth out his differences with Kageyama. Only when Hinata learns what it takes to be a part of a team will he be able to join the race to the top in earnest.
+        </item>
+        <item>
+            For as long as he can remember, Minoru Kagenou has been fixated on becoming as strong as possible, which has led him to undertake all kinds of rigorous training. This wish, however, does not stem from a desire to be recognized by others; rather, Minoru does everything he can to blend in with the crowd. So, while pretending to be a completely average student during the day, he arms himself with a crowbar and ruthlessly thrashes local biker gangs at night. Yet when Minoru finds himself in a truck accident, his ambitions seemingly come to a sudden end. In his final moments, he laments his powerlessness—no matter how much he trained, there was nothing he could do to overcome his human limitations.
+            But instead of dying, Minoru reawakens as Cid, the second child of the noble Kagenou family, in another world—one where magic is commonplace. With the power he so desired finally within his grasp, he dons the moniker "Shadow" and establishes Shadow Garden: a group whose sole purpose is to combat the enigmatic Cult of Diablos, an organization born from Cid\'s imagination. However, as Shadow Garden grows in both membership and influence, it becomes increasingly apparent that the Cult of Diablos is not as fictional as Cid had intended.
+        </item>
+        <item>
+            At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body\'s top representatives. Ranked the top student in the nation and respected by peers and mentors alike, Miyuki serves as the student council president. Alongside him, the vice president Kaguya—eldest daughter of the wealthy Shinomiya family—excels in every field imaginable. They are the envy of the entire student body, regarded as the perfect couple.
+            However, despite both having already developed feelings for the other, neither are willing to admit them. The first to confess loses, will be looked down upon, and will be considered the lesser. With their honor and pride at stake, Miyuki and Kaguya are both equally determined to be the one to emerge victorious on the battlefield of love!
+        </item>
+        <item>
+            Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado\'s shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.
+            When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister\'s humanity.
+        </item>
+        <item>
+            After dying a laughable and pathetic death on his way back from buying a game, high school student and recluse Kazuma Satou finds himself sitting before a beautiful but obnoxious goddess named Aqua. She provides the NEET with two options: continue on to heaven or reincarnate in every gamer\'s dream—a real fantasy world! Choosing to start a new life, Kazuma is quickly tasked with defeating a Demon King who is terrorizing villages. But before he goes, he can choose one item of any kind to aid him in his quest, and the future hero selects Aqua. But Kazuma has made a grave mistake—Aqua is completely useless!
+            Unfortunately, their troubles don\'t end here; it turns out that living in such a world is far different from how it plays out in a game. Instead of going on a thrilling adventure, the duo must first work to pay for their living expenses. Indeed, their misfortunes have only just begun!
+        </item>
+        <item>
+            Fourteen-year-old Iruma Suzuki has been unfortunate all his life, having to work to earn money for his irresponsible parents despite being underage. One day, he finds out that his parents sold him to the demon Sullivan. However, Iruma\'s worries about what will become of him are soon relieved, for Sullivan merely wants a grandchild, pampering him and making him attend the demon school Babyls.
+            At first, Iruma tries to keep a low profile in fear of his peers discovering that he is human. Unfortunately, this ends up being more difficult than he expected. It turns out that Sullivan himself is the chairman of the school, and everyone expects him to become the next Demon King!
+            Iruma immediately finds himself in an outrageous situation when he has to chant a forbidden spell in front of the entire school. With this, Iruma instantly earns a reputation he does not want. Even so, he is bound to be roped into more bizarre circumstances.
+        </item>
+        <item>
+            The final hour of the popular virtual reality game Yggdrasil has come. However, Momonga, a powerful wizard and master of the dark guild Ainz Ooal Gown, decides to spend his last few moments in the game as the servers begin to shut down. To his surprise, despite the clock having struck midnight, Momonga is still fully conscious as his character and, moreover, the non-player characters appear to have developed personalities of their own!
+            Confronted with this abnormal situation, Momonga commands his loyal servants to help him investigate and take control of this new world, with the hopes of figuring out what has caused this development and if there may be others in the same predicament.
+        </item>
+        <item>
+            Souma Yukihira has been cooking alongside his father Jouichirou for as long as he can remember. As a sous chef at his father\'s restaurant, he has spent years developing his culinary expertise and inventing new dishes to amaze their customers. He aspires to exceed his father\'s skill and take over the restaurant one day, but he is shocked to learn that Jouichirou is closing up the shop to take a job in New York.
+            Rather than tagging along with his father, Souma finds himself enrolling at the prestigious Tootsuki Culinary Academy, where only 10 percent of its students end up graduating. The school is famous for its "Shokugeki"—intense cooking competitions between students often used to settle debates and arguments. Jouichirou tells Souma that to surpass him and survive the next three years at Tootsuki and graduate there.
+            The academy\'s brutal curriculum and fiercely competitive student body await the young chef, who must learn to navigate the treacherous environment if he wants to stand a chance at realizing his dreams. But is skill alone enough to let him rise to the top?
+        </item>
+    </string-array>
+
+</resources>
