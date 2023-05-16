@@ -1,9 +1,21 @@
 # LoveMyAnime
 LoveMyAnime Dicoding BMAAP (Belajar Membuat Aplikasi Android untuk Pemula)
 
+<br>
+
 > **Warning**
 > 
 > IF YOU ARE WORKING ON THE SAME SUBMISSION, PLEASE DO NOT COPY PASTE, JUST USE THIS AS A REFERENCE MATERIAL ONLY
+
+<br>
+
+## Made with
+- Kotlin
+- Android View
+- Intent (Implicit and Explicit)
+- RecyclerView
+
+<br>
 
 ## Screenshots
 | Home | Detail | About |
